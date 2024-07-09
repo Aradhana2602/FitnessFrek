@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+
+    --col1: #ffc20e;
+}
+
+body{
+    background-color: black;
+    
+}
+.mainhead1{
+    -webkit-text-stroke: 2px var(--col1);
+    color: transparent;
+    font-size: 10rem;
+    font-weight: 900;
+    text-align: center;
+    
+
+}
