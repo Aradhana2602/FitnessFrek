@@ -104,7 +104,7 @@ const HomeBanner2 = () => {
           <SwiperSlide key={index}>
             <div className="swiper-slide"
               style ={{
-                backgroundImage: 'url(${item.imageUrl})',
+                backgroundImage: `url(${item.imageURL})`,
               }}
             >
                 <div className="swiper-slide-content">
